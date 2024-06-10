@@ -40,8 +40,12 @@ is to analyze novel approaches in each of the four applications of RNNs.
 ## ❓ Problem Statement
 <details>
 <summary>Literature Reviews</summary> <br>
-1. Novel Smartphone Authentication Techniques <br>
-Fernandez-Lopez, Pablo, Judith Liu-Jimenez, Kiyoshi Kiyokawa, Yang Wu, and Raul Sanchez-Reillo. 2019. "Recurrent Neural Network for Inertial Gait User Recognition in Smartphones" Sensors 19, no. 18: 4054. https://doi.org/10.3390/s19184054
+1. Novel Smartphone Authentication Techniques 
+<p>Fernandez-Lopez, Pablo, Judith Liu-Jimenez, Kiyoshi Kiyokawa, Yang Wu, and Raul Sanchez-Reillo. 2019. "Recurrent Neural Network for Inertial Gait User Recognition in Smartphones" Sensors 19, no. 18: 4054. https://doi.org/10.3390/s19184054</p>
+
+<p>2. Mouse and Keyboard Authentication Methods <br>
+S. Fu, D. Qin, D. Qiao and G. T. Amariucai, "RUMBA-Mouse: Rapid User Mouse-Behavior Authentication Using a CNN-RNN Approach," 2020 IEEE Conference on Communications and Network Security (CNS), Avignon, France, 2020, pp. 1-9, doi: 10.1109/CNS48642.2020.9162287.</p>
+
   
 </details>
 
