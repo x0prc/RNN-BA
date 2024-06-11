@@ -46,12 +46,18 @@ is to analyze novel approaches in each of the four applications of RNNs.
 <p>2. Mouse and Keyboard Authentication Methods <br>
 S. Fu, D. Qin, D. Qiao and G. T. Amariucai, "RUMBA-Mouse: Rapid User Mouse-Behavior Authentication Using a CNN-RNN Approach," 2020 IEEE Conference on Communications and Network Security (CNS), Avignon, France, 2020, pp. 1-9, doi: 10.1109/CNS48642.2020.9162287.</p>
 
+<p>3. Handwritten Authentication Methods <br>
+R. Tolosana, R. Vera-Rodriguez, J. Fierrez and J. Ortega-Garcia, "Biometric Signature Verification Using Recurrent Neural Networks," 2017 14th IAPR International Conference on Document Analysis and Recognition (ICDAR), Kyoto, Japan, 2017, pp. 652-657, doi: 10.1109/ICDAR.2017.112</p>
+
   
 </details>
 
 ## 💽 Datasets
 <details>
-<summary></summary>
+<summary>Used Here</summary> <br>
+[OUDB] https://www.cs.ou.edu/~database/ <br>
+[BioSecurID] http://atvs.ii.uam.es/databases.jsp <br>
+[eBioDigitDB] https://github.com/BiDAlab/eBioDigitDB
 </details>
 
 ## 💡 Solution Statement
