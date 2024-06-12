@@ -37,10 +37,10 @@ is to analyze novel approaches in each of the four applications of RNNs.
 </details>
 
 
-## ❓ Problem Statement
+## ❓ Problem Statements
 <details>
 <summary>Literature Reviews</summary> <br>
-1. Novel Smartphone Authentication Techniques 
+1. Novel Smartphone Authentication Techniques
 <p>Fernandez-Lopez, Pablo, Judith Liu-Jimenez, Kiyoshi Kiyokawa, Yang Wu, and Raul Sanchez-Reillo. 2019. "Recurrent Neural Network for Inertial Gait User Recognition in Smartphones" Sensors 19, no. 18: 4054. https://doi.org/10.3390/s19184054</p>
 
 <p>2. Mouse and Keyboard Authentication Methods <br>
@@ -48,6 +48,9 @@ S. Fu, D. Qin, D. Qiao and G. T. Amariucai, "RUMBA-Mouse: Rapid User Mouse-Behav
 
 <p>3. Handwritten Authentication Methods <br>
 R. Tolosana, R. Vera-Rodriguez, J. Fierrez and J. Ortega-Garcia, "Biometric Signature Verification Using Recurrent Neural Networks," 2017 14th IAPR International Conference on Document Analysis and Recognition (ICDAR), Kyoto, Japan, 2017, pp. 652-657, doi: 10.1109/ICDAR.2017.112</p>
+
+<p>4. Model for Facial Expression Recognition Using LSTM RNN <br>
+Rajan, S., Chenniappan, P., Devaraj, S. and Madian, N. (2020), Novel deep learning model for facial expression recognition based on maximum boosted CNN and LSTM. IET Image Processing, 14: 1373-1381. https://doi.org/10.1049/iet-ipr.2019.1188</p>
 
   
 </details>
@@ -57,13 +60,12 @@ R. Tolosana, R. Vera-Rodriguez, J. Fierrez and J. Ortega-Garcia, "Biometric Sign
 <summary>Used Here</summary> <br>
 [OUDB] https://www.cs.ou.edu/~database/ <br>
 [BioSecurID] http://atvs.ii.uam.es/databases.jsp <br>
-[eBioDigitDB] https://github.com/BiDAlab/eBioDigitDB
-</details>
+[eBioDigitDB] https://github.com/BiDAlab/eBioDigitDB <br>
+[CK+] https://www.kaggle.com/datasets/davilsena/ckdataset <br>
+[MMI] https://mmifacedb.eu/ <br>
+[SFEW] https://cs.anu.edu.au/few/AFEW.html <br>
 
-## 💡 Solution Statement
-<details>
-<summary></summary>
-</details>
 
+</details>
 
 ## 🎨 Project Design
