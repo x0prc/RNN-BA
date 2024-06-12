@@ -56,14 +56,12 @@ Rajan, S., Chenniappan, P., Devaraj, S. and Madian, N. (2020), Novel deep learni
 </details>
 
 ## 💽 Datasets
-<details>
-<summary>Used Here</summary> <br>
-[OUDB] https://www.cs.ou.edu/~database/ <br>
-[BioSecurID] http://atvs.ii.uam.es/databases.jsp <br>
-[eBioDigitDB] https://github.com/BiDAlab/eBioDigitDB <br>
-[CK+] https://www.kaggle.com/datasets/davilsena/ckdataset <br>
-[MMI] https://mmifacedb.eu/ <br>
-[SFEW] https://cs.anu.edu.au/few/AFEW.html <br>
+[UoO Database](https://www.cs.ou.edu/~database/) <br>
+[BioSecurID](http://atvs.ii.uam.es/databases.jsp) <br>
+[eBioDigitDB](https://github.com/BiDAlab/eBioDigitDB) <br>
+[Cohn-Kanade Dataset](https://www.kaggle.com/datasets/davilsena/ckdataset) <br>
+[MMI](https://mmifacedb.eu/) <br>
+[SFEW](https://cs.anu.edu.au/few/AFEW.html) <br>
 
 
 </details>
