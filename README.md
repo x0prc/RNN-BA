@@ -52,6 +52,9 @@ R. Tolosana, R. Vera-Rodriguez, J. Fierrez and J. Ortega-Garcia, "Biometric Sign
 <p>4. Model for Facial Expression Recognition Using LSTM RNN <br>
 Rajan, S., Chenniappan, P., Devaraj, S. and Madian, N. (2020), Novel deep learning model for facial expression recognition based on maximum boosted CNN and LSTM. IET Image Processing, 14: 1373-1381. https://doi.org/10.1049/iet-ipr.2019.1188</p>
 
+<p>5. Multimodal Expression Recognition Implementing an RNN Approach <br>
+Shizhe Chen and Qin Jin. 2015. Multi-modal Dimensional Emotion Recognition using Recurrent Neural Networks. In Proceedings of the 5th International Workshop on Audio/Visual Emotion Challenge (AVEC '15). Association for Computing Machinery, New York, NY, USA, 49–56. https://doi.org/10.1145/2808196.2811638</p>
+
   
 </details>
 
@@ -62,6 +65,7 @@ Rajan, S., Chenniappan, P., Devaraj, S. and Madian, N. (2020), Novel deep learni
 [Cohn-Kanade Dataset](https://www.kaggle.com/datasets/davilsena/ckdataset) <br>
 [MMI](https://mmifacedb.eu/) <br>
 [SFEW](https://cs.anu.edu.au/few/AFEW.html) <br>
+[RECOLA](https://diuf.unifr.ch/main/diva/recola/) <br>
 
 
 </details>
