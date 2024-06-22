@@ -70,4 +70,3 @@ Shizhe Chen and Qin Jin. 2015. Multi-modal Dimensional Emotion Recognition using
 
 </details>
 
-## 🎨 Project Design
